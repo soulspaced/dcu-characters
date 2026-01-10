@@ -1,11 +1,16 @@
 {
-  "players": [
+  "players": [    
     {
       "userId": 1440218794,
       "rpName": "Batman"
+    },
+    {
+      "userId": 323232914,
+      "rpName": "Martian Manhunter"
     }
   ]
 }
+
 
 
 
