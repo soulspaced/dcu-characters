@@ -1,23 +1,12 @@
 {
   "players": [    
     {
-      "userId": 1440218794,
-      "rpName": "Batman"
-    },
-    {
       "userId": 323232914,
       "rpName": "Martian Manhunter"
     },
     {
       "userId": 1261562515,
-      "rpName": "Its Ma’alefa’ak"
+      "rpName": "Ma’alefa’ak"
     }
   ]
 }
-
-
-
-
-
-
-
